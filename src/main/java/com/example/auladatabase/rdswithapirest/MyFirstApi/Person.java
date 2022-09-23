@@ -1,4 +1,4 @@
-package com.example.auladatabase.apirest;
+package com.example.auladatabase.rdswithapirest.MyFirstApi;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

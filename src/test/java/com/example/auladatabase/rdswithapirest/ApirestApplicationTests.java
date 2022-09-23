@@ -1,4 +1,4 @@
-package com.example.auladatabase.apirest;
+package com.example.auladatabase.rdswithapirest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

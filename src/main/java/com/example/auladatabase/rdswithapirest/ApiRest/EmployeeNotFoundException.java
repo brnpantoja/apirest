@@ -1,4 +1,4 @@
-package ApiRest;
+package com.example.auladatabase.rdswithapirest.ApiRest;
 
 public class EmployeeNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package ApiRest;
+package com.example.auladatabase.rdswithapirest.ApiRest;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

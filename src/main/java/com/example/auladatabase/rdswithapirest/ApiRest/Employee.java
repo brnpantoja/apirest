@@ -1,4 +1,4 @@
-package ApiRest;
+package com.example.auladatabase.rdswithapirest.ApiRest;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

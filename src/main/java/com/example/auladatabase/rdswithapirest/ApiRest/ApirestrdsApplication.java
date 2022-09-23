@@ -1,4 +1,4 @@
-package ApiRest;
+package com.example.auladatabase.rdswithapirest.ApiRest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
